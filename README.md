@@ -25,8 +25,8 @@
 ***
 
 ## 1. Introducción
-Pirqa, es una academia de escalada para niños y adultos que tiene creada 7 años, adicionalmente presta otros servicios, como la cafeteria, tienda de venta de implementos y equipos, menbresias y servicios de cumpleaños en el local.
-Actualmente toda la venta se realiza presencialmente y estan muy interesados en una propuesta digital.
+Pirqa, es una academia de escalada para niños y adultos que se creó hace 7 años, adicionalmente presta otros servicios, como la cafetería, tienda de venta de implementos y equipos, membresías y servicios de cumpleaños en el local.
+Actualmente toda la venta se realiza de manera presencial y están muy interesados en una propuesta digital.
 
 ## 2. Objetivos del Proyecto
 - Conocer sobre la marca, servicios que brinda y lo que desean mejorar.
@@ -201,3 +201,5 @@ RESULTADOS:
 ## 5. Conclusiones
 ## 6. Enlaces
 * [Carpeta de Drive compartido](https://drive.google.com/drive/folders/1Ar3P8PT4rc6GE4cbh7sH1OtE2qIi6WX2)
+* [Prototipado en figma]()
+
