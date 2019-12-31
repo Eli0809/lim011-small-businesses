@@ -202,9 +202,4 @@ RESULTADOS:
 ## 5. Conclusiones
 ## 6. Enlaces
 * [Carpeta de Drive compartido](https://drive.google.com/drive/folders/1Ar3P8PT4rc6GE4cbh7sH1OtE2qIi6WX2)
-<<<<<<< HEAD
-* [Prototipado en figma]()
-
-=======
 * [Prototipado en figma](https://www.figma.com/proto/DIUJdjtflJXHw2Ak3iqZtK/Vista-movil-pirqa-market-place?node-id=32%3A6&scaling=scale-down)
->>>>>>> d3faf2fcc52aeba1e54fc00b09628ffffff999d4
