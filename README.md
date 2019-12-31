@@ -182,12 +182,13 @@ Para la ideación utilizamos la herramienta Crazy8:
 ![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/pirqateam/Imagenes/crazy8Melissa.jpg)
 ![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/pirqateam/Imagenes/crazy8Meli2.jpg)
 ![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/pirqateam/Imagenes/Crazy8%20Galeria%20de%20fotos.jpeg)
+![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/pirqateam/Imagenes/crazy-ivonne.jpg)
 
 #### Prototipado de baja fidelidad
 ![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/pirqateam/Imagenes/Prototipo%20de%20baja%20fidelidad.jpg)
 Testeo de prototipo de baja fidelidad:
-![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/pirqateam/Imagenes/Testeo%20prototipo%20papel%201.jpg)
-![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/pirqateam/Imagenes/Testeo%20prototipo%20papel%202.jpg)
+![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/pirqateam/Imagenes/collage.png)
+
 
 RESULTADOS:
 * Los usuarios demoraron un promedio de 20 seg utilizando el prototipo en papel.
@@ -195,11 +196,15 @@ RESULTADOS:
 * Como mejora indicaron que deberia haber más información donde se muestre que la temática es escalada (fotos, videos).
 
 #### Prototipado de alta fidelidad
-![image]()
+![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/pirqateam/Imagenes/Prototipadofigma.jpg)
 #### User testing
 
 ## 5. Conclusiones
 ## 6. Enlaces
 * [Carpeta de Drive compartido](https://drive.google.com/drive/folders/1Ar3P8PT4rc6GE4cbh7sH1OtE2qIi6WX2)
+<<<<<<< HEAD
 * [Prototipado en figma]()
 
+=======
+* [Prototipado en figma](https://www.figma.com/proto/DIUJdjtflJXHw2Ak3iqZtK/Vista-movil-pirqa-market-place?node-id=32%3A6&scaling=scale-down)
+>>>>>>> d3faf2fcc52aeba1e54fc00b09628ffffff999d4
