@@ -196,10 +196,11 @@ RESULTADOS:
 * Como mejora indicaron que deberia haber más información donde se muestre que la temática es escalada (fotos, videos).
 
 #### Prototipado de alta fidelidad
-![image]()
+![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/master/Imagenes/prototipadofigma.png)
 #### User testing
 
 ## 5. Conclusiones
 ## 6. Enlaces
 * [Carpeta de Drive compartido](https://drive.google.com/drive/folders/1Ar3P8PT4rc6GE4cbh7sH1OtE2qIi6WX2)
 * [Prototipado en figma](https://www.figma.com/proto/V7A7RYwoaKxgFwk96jjYde/Vista-Movil-Pirqa-Market-place-Copy?node-id=181%3A1216&scaling=scale-down)
+* [Archivo en Zeplin]()
