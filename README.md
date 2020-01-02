@@ -203,4 +203,4 @@ RESULTADOS:
 ## 6. Enlaces
 * [Carpeta de Drive compartido](https://drive.google.com/drive/folders/1Ar3P8PT4rc6GE4cbh7sH1OtE2qIi6WX2)
 * [Prototipado en figma](https://www.figma.com/proto/V7A7RYwoaKxgFwk96jjYde/Vista-Movil-Pirqa-Market-place-Copy?node-id=181%3A1216&scaling=scale-down)
-* [Archivo en Zeplin](zpl://project?pid=5e0e1729288676190d36ad06)
+* [Archivo en Zeplin](https://zpl.io/VDd8wpw)
