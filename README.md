@@ -89,7 +89,7 @@ Este es el que muestra otro rubro, pero también centro de diversiones, Coney Pa
 ![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/master/Imagenes/coney%20park%202.png)
 ![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/master/Imagenes/coney3.jpg)
 
-Este es el que muestra una página en el extrangero, The Wall:
+Este es el que muestra una página en el extranjero, The Wall:
 ![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/master/Imagenes/wall.png)
 ![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/master/Imagenes/wall%202.png)
 
@@ -121,17 +121,17 @@ La página del coney y the wall nos da una idea de como simplificar el proceso d
 ![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/master/Imagenes/Diagrama%20de%20Afinidad.jpg)
 
 ##### CONCLUSIONES
-- De los clientes entrevistados la mayoria utiliza pc y movil para sus compras por internet.
+- De los clientes entrevistados la mayoría utiliza pc y móvil para sus compras por internet.
 
-"Desde mi computadora, nunca lo habia pensado pero para meter mis datos bancarios y ver todos los datos es fácil una pantalla grande". "Siempre lo hago desde mi movil".
+"Desde mi computadora, nunca lo había pensado pero para meter mis datos bancarios y ver todos los datos es fácil una pantalla grande". "Siempre lo hago desde mi movil".
 
 - Otro grupo recalcó la importancia de tener todo detallado en la web.
 
-"Me gustan las fotos por todos los angulos, que muestran bien el producto. No me gusta que no salga el precio en el producto porque demoran en contestar."
+"Me gustan las fotos por todos los ángulos, que muestran bien el producto. No me gusta que no salga el precio en el producto porque demoran en contestar."
 
 - De las molestias que se encuentra al comprar por internet indicaron que es cuando se muestra algo y la realidad es otra.
 
-"Cuando deseo comprar por ejemplo juguetes, sale en la pagina que hay stock, y cuando pago me indican que no hay en el local de mi dirección."
+"Cuando deseo comprar por ejemplo juguetes, sale en la página que hay stock, y cuando pago me indican que no hay en el local de mi dirección."
 
 - Con respecto a la forma de pago la mayoria indicó que prefieren realizar pagos en medios seguros y no tienen inconvenientes en realizar adelantos.
 
