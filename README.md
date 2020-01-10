@@ -200,7 +200,7 @@ Este fue nuestro prototipado en figma inicial
 ![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/master/Imagenes/prototipadofigma.png)
 
 Este es nuestro figma con las mejoras despues del feedback
-![image]()
+![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/master/Imagenes/figmaactualizado.jpg)
 
 #### User testing
 
