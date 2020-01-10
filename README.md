@@ -196,11 +196,18 @@ RESULTADOS:
 * Como mejora indicaron que deberia haber más información donde se muestre que la temática es escalada (fotos, videos).
 
 #### Prototipado de alta fidelidad
+Este fue nuestro prototipado en figma inicial
 ![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/master/Imagenes/prototipadofigma.png)
+
+Este es nuestro figma con las mejoras despues del feedback
+![image]()
+
 #### User testing
 
 ## 5. Conclusiones
 ## 6. Enlaces
 * [Carpeta de Drive compartido](https://drive.google.com/drive/folders/1Ar3P8PT4rc6GE4cbh7sH1OtE2qIi6WX2)
-* [Prototipado en figma](https://www.figma.com/proto/LBjYaCPQKxVaNaef1At7wC/Vista-Movil-Pirqa?node-id=96%3A650&scaling=scale-down)
+* [Prototipado en figma con mejoras](https://www.figma.com/proto/LBjYaCPQKxVaNaef1At7wC/Vista-Movil-Pirqa?node-id=96%3A650&scaling=scale-down)
+* [Prototipado en marvel con mejoras](https://marvelapp.com/5a425ad)
 * [Archivo en Zeplin](https://zpl.io/VDd8wpw)
+
