@@ -203,11 +203,21 @@ Este es nuestro figma con las mejoras despues del feedback
 ![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/master/Imagenes/figmaactualizado.jpg)
 
 #### User testing
+Los usuarios nos indicaron las siguientes mejoras:
+- Que hayan paquetes armados para escoger.
+- Que en el paso de detalle de compra este mas especificado el paquete comprado.
+- Que en la parte de 45 min de comida se cambie, porque se entiendo como si fuera buffet.
+- Que se deberia dar más enfasis en el deporte de escalada, que en los combos.
 
 ## 5. Conclusiones
+- Despues de los user testers concluimos segun el feedback que nos dieron los entrevistados que se puede mejorar el proceso de compra para que éste se llegue a concretar con éxito.
+- Los usuarios testeados indicaron que el flujo era entendible y fácil de usar y que si facilitaria la compra de este servicio.
+- Despúes de la entrevista con el cliente y luego de haber realizado todo el proceso de investigación, prototipado en alta fidelidad y user testing; concluimos que Pirqa potencializaria de manera significativa su servicio de cumpleaños.
+
 ## 6. Enlaces
 * [Carpeta de Drive compartido](https://drive.google.com/drive/folders/1Ar3P8PT4rc6GE4cbh7sH1OtE2qIi6WX2)
 * [Prototipado en figma con mejoras](https://www.figma.com/proto/LBjYaCPQKxVaNaef1At7wC/Vista-Movil-Pirqa?node-id=96%3A650&scaling=scale-down)
 * [Prototipado en marvel con mejoras](https://marvelapp.com/5a425ad)
 * [Archivo en Zeplin](https://zpl.io/VDd8wpw)
+* [Video resumen en loom](https://www.loom.com/share/d0ca65d0a4884d23925086e1ac20eb7a)
 
